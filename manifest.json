@@ -1,0 +1,31 @@
+{
+    "f_name": "Chhatra",
+    "m_name":"Bahadur",
+    "l_name":"Rana",
+    "short_name": "Xatra Rana",
+    
+    "icons": [
+        {
+            "src": "./assets/xa.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/close_img.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
